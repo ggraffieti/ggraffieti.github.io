@@ -44,6 +44,8 @@ author:
 
 # navbar pages
 navbar:
+  - slug: home
+    title: Home 
   - slug: about
     title: About
   - slug: blog
