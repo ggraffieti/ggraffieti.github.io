@@ -33,9 +33,9 @@ disqus_site_shortname: "nandothemes"
 author:
   name: Gabriele Graffieti
   job: Research intern
-  bio: "Apprentice scientist <br/> Research intern @ University of Bologna <br /> <i>Working on <b>Artificial Intelligence</b>, <b>Machine Learning</b> and <b>Biometrics</b></i>"
   thumb: /images/myself.jpeg
   email: nandomoreira.me@gmail.com
+  bio: "Apprentice scientist <br/> Research intern @ University of Bologna <br /> <i>Working on <b>Artificial Intelligence</b>, <b>Machine Learning</b> and <b>Biometrics</b></i> <br /> <br /> !! website under construction, I'll be online very soon :)"
   url: https://nandomoreira.me/
   github: https://github.com/nandomoreirame
   twitter: https://twitter.com/umdevux
@@ -45,7 +45,7 @@ author:
 # navbar pages
 navbar:
   - slug: home
-    title: Home 
+    title: Home
   - slug: about
     title: About
   - slug: blog
